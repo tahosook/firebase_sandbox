@@ -14,5 +14,8 @@
     "firebase"
   ],
   "author": "Takuya Hosooka",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "firebase-functions": "^0.7.5"
+  }
 }
